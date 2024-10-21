@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @hrithirakesh
 - 👀 I’m interested in MLand DS
-- 🌱 I’m currently learning python 
+- 🌱 I’m good at C++ and Python 
 - 💞️ I’m looking to collaborate on ML and DS projects
+- Various Projects in Web Dev
 - 
 - 📫 How to reach me figure out!!
 
